@@ -47,3 +47,8 @@
 .masthead-table .type-masthead {
   font-size: 30px !important;
 }
+
+@media (min-width: 992px)
+.masthead {
+    height: 150vh !important;
+}
